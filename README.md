@@ -8,3 +8,5 @@ This repository is dedicated to the [**Developing AI Applications with Python an
 * **Python Packaging & Structure:** Modular application organization, package structure (`__init__.py`), and dependency management (`requirements.txt`).
 * **Testing & Code Quality:** Writing automated unit tests using `unittest`, debugging Flask apps, and running static code analysis via `pylint`.
 * **Deployment & Web Services:** Running local development servers, handling environment variables, and packaging microservices for deployment.
+
+![IBM Certificate](AngelVelasq_IBM_AI_APPS_FLASK.jpeg)
